@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=data-rudresh&label=Profile%20views&color=0e75b6&style=flat" alt="data-rudresh" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Generative Engineering, Prompt Engineering**
+- 🌱 I’m currently learning **Data Science, Machine Learning, GenerativeAI, Prompt Engineering**
 
 - 💬 Ask me about **Data Science, Machine Learning,**
 
-- 📫 How to reach me **data.rudresh@gmmail.com**
+- 📫 How to reach me **data.rudresh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
